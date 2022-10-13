@@ -1,6 +1,6 @@
-AddFields: 
-  - backfilled_log: yes
-  - projectID: test
+add_field: 
+  - backfilled_log=yes
+  - projectID=test
 backfill: true
 dataset: honeytail-example
 debug: true
