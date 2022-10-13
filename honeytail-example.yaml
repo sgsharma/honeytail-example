@@ -1,0 +1,10 @@
+AddFields: 
+  - backfilled_log: yes
+  - projectID: test
+backfill: true
+dataset: honeytail-example
+debug: true
+file: ./honeytail-example.log
+keyval: 
+  timefield: time
+parser: keyval
